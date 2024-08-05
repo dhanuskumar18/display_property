@@ -1,0 +1,23 @@
+*{
+    font-size: 1.3rem;
+}
+span {
+    background-color:aqua;
+}
+.block {
+    background-color: orange;
+}
+.ib {
+    display: inline-block;
+    height: 100px;
+}
+div {
+    background-color:lightpink;
+    margin: 1rem;
+}
+.ibi {
+    display: inline-block;
+    height: 300px;
+    width: 500px;
+    margin: 1rem;
+}
